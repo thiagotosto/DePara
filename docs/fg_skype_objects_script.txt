@@ -1,0 +1,1607 @@
+config firewall address
+    edit "HOST-RANSOM_WANNACRY_0"
+        set subnet 13.64.106.229 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_1"
+        set subnet 13.64.240.95 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_2"
+        set subnet 13.67.56.225 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_3"
+        set subnet 13.67.109.136 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_4"
+        set subnet 13.67.180.128 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_5"
+        set subnet 13.67.186.105 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_6"
+        set subnet 13.67.209.156 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_7"
+        set subnet 13.67.214.76 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_8"
+        set subnet 13.67.222.144 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_9"
+        set subnet 13.68.31.102 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_10"
+        set subnet 13.70.89.162 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_11"
+        set subnet 13.70.156.147 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_12"
+        set subnet 13.70.159.107 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_13"
+        set subnet 13.70.186.54 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_14"
+        set subnet 13.73.109.13 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_15"
+        set subnet 13.73.155.42 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_16"
+        set subnet 13.74.146.183 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_17"
+        set subnet 13.75.42.168 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_18"
+        set subnet 13.75.120.15 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_19"
+        set subnet 13.75.120.61 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_20"
+        set subnet 13.75.125.228 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_21"
+        set subnet 13.75.126.46 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_22"
+        set subnet 13.75.127.250 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_23"
+        set subnet 13.75.154.195 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_24"
+        set subnet 13.75.159.17 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_25"
+        set subnet 13.75.159.51 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_26"
+        set subnet 13.76.188.52 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_27"
+        set subnet 13.76.189.79 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_28"
+        set subnet 13.76.241.210 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_29"
+        set subnet 13.77.1.253 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_30"
+        set subnet 13.77.7.84 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_31"
+        set subnet 13.78.59.246 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_32"
+        set subnet 13.78.93.8 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_33"
+        set subnet 13.78.94.7 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_34"
+        set subnet 13.78.95.252 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_35"
+        set subnet 13.78.112.190 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_36"
+        set subnet 13.79.153.60 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_37"
+        set subnet 13.79.161.153 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_38"
+        set subnet 13.79.234.229 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_39"
+        set subnet 13.88.183.247 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_40"
+        set subnet 13.88.241.210 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_41"
+        set subnet 13.89.44.84 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_42"
+        set subnet 13.91.40.251 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_43"
+        set subnet 13.91.106.134 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_44"
+        set subnet 13.91.108.91 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_45"
+        set subnet 13.91.252.242 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_46"
+        set subnet 13.92.80.132 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_47"
+        set subnet 13.92.136.118 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_48"
+        set subnet 13.93.149.3 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_49"
+        set subnet 13.93.156.214 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_50"
+        set subnet 13.93.167.93 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_51"
+        set subnet 13.93.209.18 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_52"
+        set subnet 13.94.47.37 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_53"
+        set subnet 13.95.88.228 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_54"
+        set subnet 13.95.233.176 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_55"
+        set subnet 13.95.234.10 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_56"
+        set subnet 13.95.236.192 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_57"
+        set subnet 23.97.72.141 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_58"
+        set subnet 23.97.75.102 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_59"
+        set subnet 23.97.78.16 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_60"
+        set subnet 23.97.164.28 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_61"
+        set subnet 23.99.101.49 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_62"
+        set subnet 23.99.101.118 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_63"
+        set subnet 23.99.112.73 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_64"
+        set subnet 23.99.113.23 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_65"
+        set subnet 23.99.113.163 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_66"
+        set subnet 23.99.115.104 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_67"
+        set subnet 23.99.121.38 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_68"
+        set subnet 23.99.121.255 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_69"
+        set subnet 23.99.122.87 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_70"
+        set subnet 23.99.124.9 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_71"
+        set subnet 23.99.195.117 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_72"
+        set subnet 23.101.61.176 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_73"
+        set subnet 23.101.112.170 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_74"
+        set subnet 23.101.115.193 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_75"
+        set subnet 23.101.116.26 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_76"
+        set subnet 23.101.151.89 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_77"
+        set subnet 23.101.156.198 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_78"
+        set subnet 23.101.158.111 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_79"
+        set subnet 23.102.17.214 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_80"
+        set subnet 23.102.24.114 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_81"
+        set subnet 40.68.225.164 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_82"
+        set subnet 40.68.250.216 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_83"
+        set subnet 40.68.251.17 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_84"
+        set subnet 40.69.45.108 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_85"
+        set subnet 40.69.210.145 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_86"
+        set subnet 40.74.62.125 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_87"
+        set subnet 40.74.84.253 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_88"
+        set subnet 40.74.113.62 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_89"
+        set subnet 40.74.127.186 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_90"
+        set subnet 40.74.128.205 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_91"
+        set subnet 40.74.129.215 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_92"
+        set subnet 40.74.130.253 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_93"
+        set subnet 40.74.143.94 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_94"
+        set subnet 40.76.24.32 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_95"
+        set subnet 40.76.24.177 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_96"
+        set subnet 40.76.77.68 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_97"
+        set subnet 40.77.16.36 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_98"
+        set subnet 40.78.68.158 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_99"
+        set subnet 40.78.71.48 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_100"
+        set subnet 40.78.98.202 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_101"
+        set subnet 40.78.146.128 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_102"
+        set subnet 40.79.38.101 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_103"
+        set subnet 40.79.41.254 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_104"
+        set subnet 40.79.74.185 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_105"
+        set subnet 40.79.82.21 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_106"
+        set subnet 40.83.17.24 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_107"
+        set subnet 40.83.121.219 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_108"
+        set subnet 40.83.124.144 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_109"
+        set subnet 40.83.176.46 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_110"
+        set subnet 40.83.177.162 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_111"
+        set subnet 40.83.183.236 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_112"
+        set subnet 40.84.28.125 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_113"
+        set subnet 40.86.90.132 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_114"
+        set subnet 40.86.92.191 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_115"
+        set subnet 40.112.188.2 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_116"
+        set subnet 40.113.16.205 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_117"
+        set subnet 40.113.87.220 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_118"
+        set subnet 40.113.136.240 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_119"
+        set subnet 40.114.149.220 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_120"
+        set subnet 40.114.244.22 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_121"
+        set subnet 40.115.1.44 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_122"
+        set subnet 40.115.74.171 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_123"
+        set subnet 40.117.100.83 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_124"
+        set subnet 40.117.145.132 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_125"
+        set subnet 40.118.169.78 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_126"
+        set subnet 40.118.214.164 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_127"
+        set subnet 40.118.251.206 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_128"
+        set subnet 40.118.253.51 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_129"
+        set subnet 40.121.200.212 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_130"
+        set subnet 40.121.221.52 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_131"
+        set subnet 40.122.44.96 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_132"
+        set subnet 40.122.165.60 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_133"
+        set subnet 40.122.168.86 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_134"
+        set subnet 40.123.43.195 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_135"
+        set subnet 40.123.50.17 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_136"
+        set subnet 40.126.239.210 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_137"
+        set subnet 40.126.251.57 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_138"
+        set subnet 40.127.129.109 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_139"
+        set subnet 40.127.169.165 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_140"
+        set subnet 51.140.53.252 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_141"
+        set subnet 51.140.55.82 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_142"
+        set subnet 51.140.183.120 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_143"
+        set subnet 51.141.5.99 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_144"
+        set subnet 51.141.9.8 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_145"
+        set subnet 51.141.12.151 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_146"
+        set subnet 52.160.110.94 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_147"
+        set subnet 52.163.112.45 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_148"
+        set subnet 52.163.114.181 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_149"
+        set subnet 52.163.115.44 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_150"
+        set subnet 52.163.118.82 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_151"
+        set subnet 52.163.224.242 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_152"
+        set subnet 52.163.225.1 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_153"
+        set subnet 52.163.229.196 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_154"
+        set subnet 52.163.230.187 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_155"
+        set subnet 52.163.231.50 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_156"
+        set subnet 52.163.231.126 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_157"
+        set subnet 52.164.253.101 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_158"
+        set subnet 52.164.255.104 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_159"
+        set subnet 52.165.35.53 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_160"
+        set subnet 52.165.45.77 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_161"
+        set subnet 52.165.150.215 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_162"
+        set subnet 52.166.61.83 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_163"
+        set subnet 52.169.9.241 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_164"
+        set subnet 52.169.10.109 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_165"
+        set subnet 52.169.30.95 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_166"
+        set subnet 52.169.67.1 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_167"
+        set subnet 52.169.104.89 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_168"
+        set subnet 52.169.105.194 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_169"
+        set subnet 52.169.105.219 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_170"
+        set subnet 52.169.106.115 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_171"
+        set subnet 52.169.154.144 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_172"
+        set subnet 52.169.190.101 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_173"
+        set subnet 52.172.53.101 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_174"
+        set subnet 52.172.54.196 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_175"
+        set subnet 52.172.55.238 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_176"
+        set subnet 52.173.190.229 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_177"
+        set subnet 52.174.144.192 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_178"
+        set subnet 52.174.150.25 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_179"
+        set subnet 52.174.166.73 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_180"
+        set subnet 52.174.166.107 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_181"
+        set subnet 52.174.166.156 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_182"
+        set subnet 52.174.186.47 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_183"
+        set subnet 52.175.24.155 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_184"
+        set subnet 52.175.33.58 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_185"
+        set subnet 52.175.37.105 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_186"
+        set subnet 52.175.38.240 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_187"
+        set subnet 52.177.186.61 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_188"
+        set subnet 52.177.186.70 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_189"
+        set subnet 52.177.186.78 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_190"
+        set subnet 52.178.25.175 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_191"
+        set subnet 52.178.34.159 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_192"
+        set subnet 52.178.36.12 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_193"
+        set subnet 52.178.36.169 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_194"
+        set subnet 52.178.38.115 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_195"
+        set subnet 52.178.108.202 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_196"
+        set subnet 52.178.114.127 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_197"
+        set subnet 52.178.145.227 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_198"
+        set subnet 52.178.148.1 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_199"
+        set subnet 52.178.148.152 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_200"
+        set subnet 52.178.158.225 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_201"
+        set subnet 52.178.179.194 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_202"
+        set subnet 52.178.186.230 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_203"
+        set subnet 52.178.198.107 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_204"
+        set subnet 52.179.139.166 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_205"
+        set subnet 52.179.142.102 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_206"
+        set subnet 52.183.117.84 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_207"
+        set subnet 52.185.146.154 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_208"
+        set subnet 52.185.151.102 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_209"
+        set subnet 52.187.6.119 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_210"
+        set subnet 52.187.79.90 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_211"
+        set subnet 52.187.117.218 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_212"
+        set subnet 52.187.123.78 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_213"
+        set subnet 52.187.126.35 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_214"
+        set subnet 52.187.135.79 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_215"
+        set subnet 52.225.131.249 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_216"
+        set subnet 52.232.76.40 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_217"
+        set subnet 52.232.78.53 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_218"
+        set subnet 52.232.129.71 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_219"
+        set subnet 52.232.132.60 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_220"
+        set subnet 52.232.135.81 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_221"
+        set subnet 52.233.128.227 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_222"
+        set subnet 52.233.29.169 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_223"
+        set subnet 52.233.30.121 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_224"
+        set subnet 104.40.75.8 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_225"
+        set subnet 104.40.76.196 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_226"
+        set subnet 104.40.82.150 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_227"
+        set subnet 104.40.91.215 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_228"
+        set subnet 104.40.189.177 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_229"
+        set subnet 104.41.151.83 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_230"
+        set subnet 104.41.207.112 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_231"
+        set subnet 104.41.208.54 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_232"
+        set subnet 104.41.210.140 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_233"
+        set subnet 104.42.228.150 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_234"
+        set subnet 104.42.229.230 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_235"
+        set subnet 104.43.12.164 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_236"
+        set subnet 104.45.18.178 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_237"
+        set subnet 104.45.231.95 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_238"
+        set subnet 104.45.231.155 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_239"
+        set subnet 104.46.62.41 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_240"
+        set subnet 104.46.96.162 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_241"
+        set subnet 104.46.97.194 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_242"
+        set subnet 104.46.101.116 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_243"
+        set subnet 104.46.105.95 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_244"
+        set subnet 104.47.151.128 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_245"
+        set subnet 104.208.28.54 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_246"
+        set subnet 104.208.31.113 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_247"
+        set subnet 104.208.152.137 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_248"
+        set subnet 104.209.188.207 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_249"
+        set subnet 104.210.1.218 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_250"
+        set subnet 104.210.9.95 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_251"
+        set subnet 104.210.80.193 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_252"
+        set subnet 104.211.162.59 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_253"
+        set subnet 104.211.165.113 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_254"
+        set subnet 104.211.165.216 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_255"
+        set subnet 111.221.101.75 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_256"
+        set subnet 137.116.66.252 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_257"
+        set subnet 137.116.132.4 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_258"
+        set subnet 137.116.157.126 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_259"
+        set subnet 137.116.159.19 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_260"
+        set subnet 137.116.159.228 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_261"
+        set subnet 137.116.248.105 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_262"
+        set subnet 137.117.109.221 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_263"
+        set subnet 137.117.128.25 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_264"
+        set subnet 157.56.176.68 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_265"
+        set subnet 168.61.145.101 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_266"
+        set subnet 168.61.152.29 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_267"
+        set subnet 168.61.155.249 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_268"
+        set subnet 168.63.14.15 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_269"
+        set subnet 168.63.204.74 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_270"
+        set subnet 168.63.219.57 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_271"
+        set subnet 168.63.245.120 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_272"
+        set subnet 191.233.80.151 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_273"
+        set subnet 191.233.95.169 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_274"
+        set subnet 191.234.20.241 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_275"
+        set subnet 191.234.23.27 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_276"
+        set subnet 191.237.44.60 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_277"
+        set subnet 207.46.155.141 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_278"
+        set subnet 207.46.156.136 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_279"
+        set subnet 207.46.230.50 255.255.255.255
+
+    next
+    edit "HOST-RANSOM_WANNACRY_280"
+        set subnet 23.103.128.0/23
+
+    next
+    edit "HOST-RANSOM_WANNACRY_281"
+        set subnet 23.103.130.0/24
+
+    next
+    edit "HOST-RANSOM_WANNACRY_282"
+        set subnet 23.103.176.128/26
+
+    next
+    edit "HOST-RANSOM_WANNACRY_283"
+        set subnet 23.103.176.192/27
+
+    next
+    edit "HOST-RANSOM_WANNACRY_284"
+        set subnet 23.103.178.128/26
+
+    next
+    edit "HOST-RANSOM_WANNACRY_285"
+        set subnet 23.103.178.192/27
+
+    next
+    edit "HOST-RANSOM_WANNACRY_286"
+        set subnet 13.107.3.0/24
+
+    next
+    edit "HOST-RANSOM_WANNACRY_287"
+        set subnet 13.107.8.0/24
+
+    next
+    edit "HOST-RANSOM_WANNACRY_288"
+        set subnet 13.107.64.0/18
+
+    next
+    edit "HOST-RANSOM_WANNACRY_289"
+        set subnet 52.112.0.0/14
+
+    next
+    edit "HOST-RANSOM_WANNACRY_290"
+        set subnet 65.55.127.0/24
+
+    next
+    edit "HOST-RANSOM_WANNACRY_291"
+        set subnet 66.119.157.192/26
+
+    next
+    edit "HOST-RANSOM_WANNACRY_292"
+        set subnet 66.119.158.0/25
+
+    next
+    edit "HOST-RANSOM_WANNACRY_293"
+        set subnet 104.44.195.0/24
+
+    next
+    edit "HOST-RANSOM_WANNACRY_294"
+        set subnet 104.44.200.0/23
+
+    next
+    edit "HOST-RANSOM_WANNACRY_295"
+        set subnet 131.253.128.0/19
+
+    next
+    edit "HOST-RANSOM_WANNACRY_296"
+        set subnet 131.253.160.0/20
+
+    next
+    edit "HOST-RANSOM_WANNACRY_297"
+        set subnet 132.245.0.0/24
+
+    next
+    edit "HOST-RANSOM_WANNACRY_298"
+        set subnet 132.245.1.0/25
+
+    next
+    edit "HOST-RANSOM_WANNACRY_299"
+        set subnet 132.245.112.0/24
+
+    next
+    edit "HOST-RANSOM_WANNACRY_300"
+        set subnet 132.245.113.0/25
+
+    next
+    edit "HOST-RANSOM_WANNACRY_301"
+        set subnet 134.170.0.0/25
+
+    next
+    edit "HOST-RANSOM_WANNACRY_302"
+        set subnet 134.170.54.0/26
+
+    next
+    edit "HOST-RANSOM_WANNACRY_303"
+        set subnet 134.170.54.128/25
+
+    next
+    edit "HOST-RANSOM_WANNACRY_304"
+        set subnet 134.170.113.192/26
+
+    next
+    edit "HOST-RANSOM_WANNACRY_305"
+        set subnet 134.170.115.128/25
+
+    next
+    edit "HOST-RANSOM_WANNACRY_306"
+        set subnet 111.221.76.128/25
+
+    next
+    edit "HOST-RANSOM_WANNACRY_307"
+        set subnet 111.221.77.0/26
+
+    next
+    edit "HOST-RANSOM_WANNACRY_308"
+        set subnet 157.55.40.128/25
+
+    next
+    edit "HOST-RANSOM_WANNACRY_309"
+        set subnet 157.55.238.0/25
+
+    next
+    edit "HOST-RANSOM_WANNACRY_310"
+        set subnet 111.221.122.192/26
+
+    next
+    edit "HOST-RANSOM_WANNACRY_311"
+        set subnet 207.46.5.0/24
+
+    next
+    edit "HOST-RANSOM_WANNACRY_312"
+        set subnet
+    next
+    edit "HOST-RANSOM_WANNACRY_313"
+        set subnet
+    next
+    edit "HOST-RANSOM_WANNACRY_314"
+        set subnet
+    next
+    edit "HOST-RANSOM_WANNACRY_315"
+        set subnet
+    next
+    edit "HOST-RANSOM_WANNACRY_316"
+        set subnet
+    next
+    edit "HOST-RANSOM_WANNACRY_317"
+        set subnet
+    next
+    edit "HOST-RANSOM_WANNACRY_318"
+        set subnet
+    next
+    edit "HOST-RANSOM_WANNACRY_319"
+        set subnet
+    next
+    edit "HOST-RANSOM_WANNACRY_320"
+        set subnet
+    next
+end
+
+config firewall addrgrp
+    edit GRPHOST-RANSOM_WANNACRY_01
+       append member HOST-RANSOM_WANNACRY_0
+       append member HOST-RANSOM_WANNACRY_1
+       append member HOST-RANSOM_WANNACRY_2
+       append member HOST-RANSOM_WANNACRY_3
+       append member HOST-RANSOM_WANNACRY_4
+       append member HOST-RANSOM_WANNACRY_5
+       append member HOST-RANSOM_WANNACRY_6
+       append member HOST-RANSOM_WANNACRY_7
+       append member HOST-RANSOM_WANNACRY_8
+       append member HOST-RANSOM_WANNACRY_9
+       append member HOST-RANSOM_WANNACRY_10
+       append member HOST-RANSOM_WANNACRY_11
+       append member HOST-RANSOM_WANNACRY_12
+       append member HOST-RANSOM_WANNACRY_13
+       append member HOST-RANSOM_WANNACRY_14
+       append member HOST-RANSOM_WANNACRY_15
+       append member HOST-RANSOM_WANNACRY_16
+       append member HOST-RANSOM_WANNACRY_17
+       append member HOST-RANSOM_WANNACRY_18
+       append member HOST-RANSOM_WANNACRY_19
+       append member HOST-RANSOM_WANNACRY_20
+       append member HOST-RANSOM_WANNACRY_21
+       append member HOST-RANSOM_WANNACRY_22
+       append member HOST-RANSOM_WANNACRY_23
+       append member HOST-RANSOM_WANNACRY_24
+       append member HOST-RANSOM_WANNACRY_25
+       append member HOST-RANSOM_WANNACRY_26
+       append member HOST-RANSOM_WANNACRY_27
+       append member HOST-RANSOM_WANNACRY_28
+       append member HOST-RANSOM_WANNACRY_29
+       append member HOST-RANSOM_WANNACRY_30
+       append member HOST-RANSOM_WANNACRY_31
+       append member HOST-RANSOM_WANNACRY_32
+       append member HOST-RANSOM_WANNACRY_33
+       append member HOST-RANSOM_WANNACRY_34
+       append member HOST-RANSOM_WANNACRY_35
+       append member HOST-RANSOM_WANNACRY_36
+       append member HOST-RANSOM_WANNACRY_37
+       append member HOST-RANSOM_WANNACRY_38
+       append member HOST-RANSOM_WANNACRY_39
+       append member HOST-RANSOM_WANNACRY_40
+       append member HOST-RANSOM_WANNACRY_41
+       append member HOST-RANSOM_WANNACRY_42
+       append member HOST-RANSOM_WANNACRY_43
+       append member HOST-RANSOM_WANNACRY_44
+       append member HOST-RANSOM_WANNACRY_45
+       append member HOST-RANSOM_WANNACRY_46
+       append member HOST-RANSOM_WANNACRY_47
+       append member HOST-RANSOM_WANNACRY_48
+       append member HOST-RANSOM_WANNACRY_49
+       append member HOST-RANSOM_WANNACRY_50
+       append member HOST-RANSOM_WANNACRY_51
+       append member HOST-RANSOM_WANNACRY_52
+       append member HOST-RANSOM_WANNACRY_53
+       append member HOST-RANSOM_WANNACRY_54
+       append member HOST-RANSOM_WANNACRY_55
+       append member HOST-RANSOM_WANNACRY_56
+       append member HOST-RANSOM_WANNACRY_57
+       append member HOST-RANSOM_WANNACRY_58
+       append member HOST-RANSOM_WANNACRY_59
+       append member HOST-RANSOM_WANNACRY_60
+       append member HOST-RANSOM_WANNACRY_61
+       append member HOST-RANSOM_WANNACRY_62
+       append member HOST-RANSOM_WANNACRY_63
+       append member HOST-RANSOM_WANNACRY_64
+       append member HOST-RANSOM_WANNACRY_65
+       append member HOST-RANSOM_WANNACRY_66
+       append member HOST-RANSOM_WANNACRY_67
+       append member HOST-RANSOM_WANNACRY_68
+       append member HOST-RANSOM_WANNACRY_69
+       append member HOST-RANSOM_WANNACRY_70
+       append member HOST-RANSOM_WANNACRY_71
+       append member HOST-RANSOM_WANNACRY_72
+       append member HOST-RANSOM_WANNACRY_73
+       append member HOST-RANSOM_WANNACRY_74
+       append member HOST-RANSOM_WANNACRY_75
+       append member HOST-RANSOM_WANNACRY_76
+       append member HOST-RANSOM_WANNACRY_77
+       append member HOST-RANSOM_WANNACRY_78
+       append member HOST-RANSOM_WANNACRY_79
+       append member HOST-RANSOM_WANNACRY_80
+       append member HOST-RANSOM_WANNACRY_81
+       append member HOST-RANSOM_WANNACRY_82
+       append member HOST-RANSOM_WANNACRY_83
+       append member HOST-RANSOM_WANNACRY_84
+       append member HOST-RANSOM_WANNACRY_85
+       append member HOST-RANSOM_WANNACRY_86
+       append member HOST-RANSOM_WANNACRY_87
+       append member HOST-RANSOM_WANNACRY_88
+       append member HOST-RANSOM_WANNACRY_89
+       append member HOST-RANSOM_WANNACRY_90
+       append member HOST-RANSOM_WANNACRY_91
+       append member HOST-RANSOM_WANNACRY_92
+       append member HOST-RANSOM_WANNACRY_93
+       append member HOST-RANSOM_WANNACRY_94
+       append member HOST-RANSOM_WANNACRY_95
+       append member HOST-RANSOM_WANNACRY_96
+       append member HOST-RANSOM_WANNACRY_97
+       append member HOST-RANSOM_WANNACRY_98
+       append member HOST-RANSOM_WANNACRY_99
+       append member HOST-RANSOM_WANNACRY_100
+       append member HOST-RANSOM_WANNACRY_101
+       append member HOST-RANSOM_WANNACRY_102
+       append member HOST-RANSOM_WANNACRY_103
+       append member HOST-RANSOM_WANNACRY_104
+       append member HOST-RANSOM_WANNACRY_105
+       append member HOST-RANSOM_WANNACRY_106
+       append member HOST-RANSOM_WANNACRY_107
+       append member HOST-RANSOM_WANNACRY_108
+       append member HOST-RANSOM_WANNACRY_109
+       append member HOST-RANSOM_WANNACRY_110
+       append member HOST-RANSOM_WANNACRY_111
+       append member HOST-RANSOM_WANNACRY_112
+       append member HOST-RANSOM_WANNACRY_113
+       append member HOST-RANSOM_WANNACRY_114
+       append member HOST-RANSOM_WANNACRY_115
+       append member HOST-RANSOM_WANNACRY_116
+       append member HOST-RANSOM_WANNACRY_117
+       append member HOST-RANSOM_WANNACRY_118
+       append member HOST-RANSOM_WANNACRY_119
+       append member HOST-RANSOM_WANNACRY_120
+       append member HOST-RANSOM_WANNACRY_121
+       append member HOST-RANSOM_WANNACRY_122
+       append member HOST-RANSOM_WANNACRY_123
+       append member HOST-RANSOM_WANNACRY_124
+       append member HOST-RANSOM_WANNACRY_125
+       append member HOST-RANSOM_WANNACRY_126
+       append member HOST-RANSOM_WANNACRY_127
+       append member HOST-RANSOM_WANNACRY_128
+       append member HOST-RANSOM_WANNACRY_129
+       append member HOST-RANSOM_WANNACRY_130
+       append member HOST-RANSOM_WANNACRY_131
+       append member HOST-RANSOM_WANNACRY_132
+       append member HOST-RANSOM_WANNACRY_133
+       append member HOST-RANSOM_WANNACRY_134
+       append member HOST-RANSOM_WANNACRY_135
+       append member HOST-RANSOM_WANNACRY_136
+       append member HOST-RANSOM_WANNACRY_137
+       append member HOST-RANSOM_WANNACRY_138
+       append member HOST-RANSOM_WANNACRY_139
+       append member HOST-RANSOM_WANNACRY_140
+       append member HOST-RANSOM_WANNACRY_141
+       append member HOST-RANSOM_WANNACRY_142
+       append member HOST-RANSOM_WANNACRY_143
+       append member HOST-RANSOM_WANNACRY_144
+       append member HOST-RANSOM_WANNACRY_145
+       append member HOST-RANSOM_WANNACRY_146
+       append member HOST-RANSOM_WANNACRY_147
+       append member HOST-RANSOM_WANNACRY_148
+       append member HOST-RANSOM_WANNACRY_149
+       append member HOST-RANSOM_WANNACRY_150
+       append member HOST-RANSOM_WANNACRY_151
+       append member HOST-RANSOM_WANNACRY_152
+       append member HOST-RANSOM_WANNACRY_153
+       append member HOST-RANSOM_WANNACRY_154
+       append member HOST-RANSOM_WANNACRY_155
+       append member HOST-RANSOM_WANNACRY_156
+       append member HOST-RANSOM_WANNACRY_157
+       append member HOST-RANSOM_WANNACRY_158
+       append member HOST-RANSOM_WANNACRY_159
+    next
+end
+config firewall addrgrp
+    edit GRPHOST-RANSOM_WANNACRY_02
+       append member HOST-RANSOM_WANNACRY_160
+       append member HOST-RANSOM_WANNACRY_161
+       append member HOST-RANSOM_WANNACRY_162
+       append member HOST-RANSOM_WANNACRY_163
+       append member HOST-RANSOM_WANNACRY_164
+       append member HOST-RANSOM_WANNACRY_165
+       append member HOST-RANSOM_WANNACRY_166
+       append member HOST-RANSOM_WANNACRY_167
+       append member HOST-RANSOM_WANNACRY_168
+       append member HOST-RANSOM_WANNACRY_169
+       append member HOST-RANSOM_WANNACRY_170
+       append member HOST-RANSOM_WANNACRY_171
+       append member HOST-RANSOM_WANNACRY_172
+       append member HOST-RANSOM_WANNACRY_173
+       append member HOST-RANSOM_WANNACRY_174
+       append member HOST-RANSOM_WANNACRY_175
+       append member HOST-RANSOM_WANNACRY_176
+       append member HOST-RANSOM_WANNACRY_177
+       append member HOST-RANSOM_WANNACRY_178
+       append member HOST-RANSOM_WANNACRY_179
+       append member HOST-RANSOM_WANNACRY_180
+       append member HOST-RANSOM_WANNACRY_181
+       append member HOST-RANSOM_WANNACRY_182
+       append member HOST-RANSOM_WANNACRY_183
+       append member HOST-RANSOM_WANNACRY_184
+       append member HOST-RANSOM_WANNACRY_185
+       append member HOST-RANSOM_WANNACRY_186
+       append member HOST-RANSOM_WANNACRY_187
+       append member HOST-RANSOM_WANNACRY_188
+       append member HOST-RANSOM_WANNACRY_189
+       append member HOST-RANSOM_WANNACRY_190
+       append member HOST-RANSOM_WANNACRY_191
+       append member HOST-RANSOM_WANNACRY_192
+       append member HOST-RANSOM_WANNACRY_193
+       append member HOST-RANSOM_WANNACRY_194
+       append member HOST-RANSOM_WANNACRY_195
+       append member HOST-RANSOM_WANNACRY_196
+       append member HOST-RANSOM_WANNACRY_197
+       append member HOST-RANSOM_WANNACRY_198
+       append member HOST-RANSOM_WANNACRY_199
+       append member HOST-RANSOM_WANNACRY_200
+       append member HOST-RANSOM_WANNACRY_201
+       append member HOST-RANSOM_WANNACRY_202
+       append member HOST-RANSOM_WANNACRY_203
+       append member HOST-RANSOM_WANNACRY_204
+       append member HOST-RANSOM_WANNACRY_205
+       append member HOST-RANSOM_WANNACRY_206
+       append member HOST-RANSOM_WANNACRY_207
+       append member HOST-RANSOM_WANNACRY_208
+       append member HOST-RANSOM_WANNACRY_209
+       append member HOST-RANSOM_WANNACRY_210
+       append member HOST-RANSOM_WANNACRY_211
+       append member HOST-RANSOM_WANNACRY_212
+       append member HOST-RANSOM_WANNACRY_213
+       append member HOST-RANSOM_WANNACRY_214
+       append member HOST-RANSOM_WANNACRY_215
+       append member HOST-RANSOM_WANNACRY_216
+       append member HOST-RANSOM_WANNACRY_217
+       append member HOST-RANSOM_WANNACRY_218
+       append member HOST-RANSOM_WANNACRY_219
+       append member HOST-RANSOM_WANNACRY_220
+       append member HOST-RANSOM_WANNACRY_221
+       append member HOST-RANSOM_WANNACRY_222
+       append member HOST-RANSOM_WANNACRY_223
+       append member HOST-RANSOM_WANNACRY_224
+       append member HOST-RANSOM_WANNACRY_225
+       append member HOST-RANSOM_WANNACRY_226
+       append member HOST-RANSOM_WANNACRY_227
+       append member HOST-RANSOM_WANNACRY_228
+       append member HOST-RANSOM_WANNACRY_229
+       append member HOST-RANSOM_WANNACRY_230
+       append member HOST-RANSOM_WANNACRY_231
+       append member HOST-RANSOM_WANNACRY_232
+       append member HOST-RANSOM_WANNACRY_233
+       append member HOST-RANSOM_WANNACRY_234
+       append member HOST-RANSOM_WANNACRY_235
+       append member HOST-RANSOM_WANNACRY_236
+       append member HOST-RANSOM_WANNACRY_237
+       append member HOST-RANSOM_WANNACRY_238
+       append member HOST-RANSOM_WANNACRY_239
+       append member HOST-RANSOM_WANNACRY_240
+       append member HOST-RANSOM_WANNACRY_241
+       append member HOST-RANSOM_WANNACRY_242
+       append member HOST-RANSOM_WANNACRY_243
+       append member HOST-RANSOM_WANNACRY_244
+       append member HOST-RANSOM_WANNACRY_245
+       append member HOST-RANSOM_WANNACRY_246
+       append member HOST-RANSOM_WANNACRY_247
+       append member HOST-RANSOM_WANNACRY_248
+       append member HOST-RANSOM_WANNACRY_249
+       append member HOST-RANSOM_WANNACRY_250
+       append member HOST-RANSOM_WANNACRY_251
+       append member HOST-RANSOM_WANNACRY_252
+       append member HOST-RANSOM_WANNACRY_253
+       append member HOST-RANSOM_WANNACRY_254
+       append member HOST-RANSOM_WANNACRY_255
+       append member HOST-RANSOM_WANNACRY_256
+       append member HOST-RANSOM_WANNACRY_257
+       append member HOST-RANSOM_WANNACRY_258
+       append member HOST-RANSOM_WANNACRY_259
+       append member HOST-RANSOM_WANNACRY_260
+       append member HOST-RANSOM_WANNACRY_261
+       append member HOST-RANSOM_WANNACRY_262
+       append member HOST-RANSOM_WANNACRY_263
+       append member HOST-RANSOM_WANNACRY_264
+       append member HOST-RANSOM_WANNACRY_265
+       append member HOST-RANSOM_WANNACRY_266
+       append member HOST-RANSOM_WANNACRY_267
+       append member HOST-RANSOM_WANNACRY_268
+       append member HOST-RANSOM_WANNACRY_269
+       append member HOST-RANSOM_WANNACRY_270
+       append member HOST-RANSOM_WANNACRY_271
+       append member HOST-RANSOM_WANNACRY_272
+       append member HOST-RANSOM_WANNACRY_273
+       append member HOST-RANSOM_WANNACRY_274
+       append member HOST-RANSOM_WANNACRY_275
+       append member HOST-RANSOM_WANNACRY_276
+       append member HOST-RANSOM_WANNACRY_277
+       append member HOST-RANSOM_WANNACRY_278
+       append member HOST-RANSOM_WANNACRY_279
+       append member HOST-RANSOM_WANNACRY_280
+       append member HOST-RANSOM_WANNACRY_281
+       append member HOST-RANSOM_WANNACRY_282
+       append member HOST-RANSOM_WANNACRY_283
+       append member HOST-RANSOM_WANNACRY_284
+       append member HOST-RANSOM_WANNACRY_285
+       append member HOST-RANSOM_WANNACRY_286
+       append member HOST-RANSOM_WANNACRY_287
+       append member HOST-RANSOM_WANNACRY_288
+       append member HOST-RANSOM_WANNACRY_289
+       append member HOST-RANSOM_WANNACRY_290
+       append member HOST-RANSOM_WANNACRY_291
+       append member HOST-RANSOM_WANNACRY_292
+       append member HOST-RANSOM_WANNACRY_293
+       append member HOST-RANSOM_WANNACRY_294
+       append member HOST-RANSOM_WANNACRY_295
+       append member HOST-RANSOM_WANNACRY_296
+       append member HOST-RANSOM_WANNACRY_297
+       append member HOST-RANSOM_WANNACRY_298
+       append member HOST-RANSOM_WANNACRY_299
+       append member HOST-RANSOM_WANNACRY_300
+       append member HOST-RANSOM_WANNACRY_301
+       append member HOST-RANSOM_WANNACRY_302
+       append member HOST-RANSOM_WANNACRY_303
+       append member HOST-RANSOM_WANNACRY_304
+       append member HOST-RANSOM_WANNACRY_305
+       append member HOST-RANSOM_WANNACRY_306
+       append member HOST-RANSOM_WANNACRY_307
+       append member HOST-RANSOM_WANNACRY_308
+       append member HOST-RANSOM_WANNACRY_309
+       append member HOST-RANSOM_WANNACRY_310
+       append member HOST-RANSOM_WANNACRY_311
+       append member HOST-RANSOM_WANNACRY_312
+       append member HOST-RANSOM_WANNACRY_313
+       append member HOST-RANSOM_WANNACRY_314
+       append member HOST-RANSOM_WANNACRY_315
+       append member HOST-RANSOM_WANNACRY_316
+       append member HOST-RANSOM_WANNACRY_317
+       append member HOST-RANSOM_WANNACRY_318
+       append member HOST-RANSOM_WANNACRY_319
+       append member HOST-RANSOM_WANNACRY_320
+    next
+end
